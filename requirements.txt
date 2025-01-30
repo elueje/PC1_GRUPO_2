@@ -1,0 +1,1 @@
+pandas\nnumpy\nsqlite3\njsonlines
